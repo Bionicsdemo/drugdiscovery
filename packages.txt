@@ -4,3 +4,14 @@ libpq-dev
 gcc
 g++
 git
+cmake
+wget
+libxrender1
+libxext6
+libcairo2-dev
+pkg-config
+python3-cairo
+libeigen3-dev
+libfreetype6-dev
+libxml2-dev
+libboost-all-dev
